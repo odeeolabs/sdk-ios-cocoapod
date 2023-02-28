@@ -1,0 +1,16 @@
+PODS:
+  - PlayOnSdk (0.1.0)
+
+DEPENDENCIES:
+  - PlayOnSdk (from `../`)
+
+EXTERNAL SOURCES:
+  PlayOnSdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PlayOnSdk: 266534612a532a7b696e210b52e615951ea8cb31
+
+PODFILE CHECKSUM: a9e2a85e68fd191d809bcfc671131ceb46f90700
+
+COCOAPODS: 1.11.3

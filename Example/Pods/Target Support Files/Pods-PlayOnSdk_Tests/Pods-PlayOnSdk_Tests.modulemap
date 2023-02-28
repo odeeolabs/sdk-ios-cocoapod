@@ -1,0 +1,6 @@
+framework module Pods_PlayOnSdk_Tests {
+  umbrella header "Pods-PlayOnSdk_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

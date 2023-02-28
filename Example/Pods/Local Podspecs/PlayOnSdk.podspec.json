@@ -1,0 +1,22 @@
+{
+  "name": "PlayOnSdk",
+  "version": "0.1.0",
+  "summary": "A short description of PlayOnSdk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Evgen Garkavenko/PlayOnSdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Evgen Garkavenko": "evgen.garkavenko@pinxterapp.com"
+  },
+  "source": {
+    "git": "https://github.com/Evgen Garkavenko/PlayOnSdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PlayOnSdk/Classes/**/*"
+}
