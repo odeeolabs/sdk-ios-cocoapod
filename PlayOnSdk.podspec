@@ -17,15 +17,14 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'A long description of PlayOnSdk.'
 
-  s.homepage         = 'https://github.com/Evgen Garkavenko/PlayOnSdk'
+
+  s.homepage         = 'https://github.com/odeeolabs/sdk-ios-cocoapod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Evgen Garkavenko' => 'evgen.garkavenko@pinxterapp.com' }
-  s.source           = { :git => 'https://github.com/Evgen Garkavenko/PlayOnSdk.git', :tag => s.version.to_s }
+  s.author           = { 'Yevhen Harkavenko' => 'yevhen.h@odeeo.io' }
+  s.source           = { :git => 'https://github.com/odeeolabs/sdk-ios-cocoapod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
